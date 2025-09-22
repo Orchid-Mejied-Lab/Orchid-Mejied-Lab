@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🌸 Orchid-Mejied Lab 🌸
 
-<!--
-**Orchid-Mejied-Lab/Orchid-Mejied-Lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AIを活用した **調査・分析・資料作成** を行っています。  
+複雑な情報を整理し、わかりやすい形で提供することを得意としています。  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Services
+- 🕵️‍♀️ 企業調査・分析  
+- 📝 レポート・資料作成  
+- 📂 情報整理・監査支援  
+
+---
+
+## 🐾 Mascot
+研究所の守り神「ちろちゃん」🐶✨  
+（プロフィールアイコンにも登場中！）
+
+---
+
+## 📬 Contact
+ご相談・お問い合わせはメールにてお願いします。  
