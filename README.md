@@ -50,7 +50,8 @@
 - kinoshita_notice.pdf  
   → 木下関連通知文書
 
-- Odawara rental car sales incident → 小田原レンタカー売却事件
+- Odawara rental car sales incident.pdf  
+  → 小田原レンタカー売却事件
 
 ---
 
