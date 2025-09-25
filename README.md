@@ -12,8 +12,41 @@
 - 🌐 **ネットリサーチ**：トレンドや世論の動きをキャッチ  
 
 ---
+## 公開資料一覧
 
-## ✨ Motto
-「ネットの便利屋さん、なんでも屋さん。」  
-ちょっとした調べものから、しっかりした資料作りまで柔軟に対応します。  
+- About the fugitive Yoichi Hatta.pdf  
+  → 指名手配犯・八田与一に関する調査資料  
 
+- Amazon weekly sales ranking.pdf  
+  → Amazon週間売上ランキングまとめ  
+
+- Candidate for the next Prime Minister 2025!.pdf  
+  → 2025年次期首相候補に関する考察レポート  
+
+- Conbini Sweets Ranking & Trends.pdf  
+  → コンビニ4社（ローソン・ファミマ・セブン・ミニストップ）のスイーツ人気ランキングと動向  
+
+- Teen Mini Bag Trends in Japan.pdf  
+  → Z世代のミニバッグ事情レポート  
+
+- itekureya-report.pdf  
+  → 「いてくれや」レポート  
+
+- kimi_review_kinoshita_doc.pdf  
+  → Kimiによる木下関連文書のレビュー  
+
+- yukkuri-gender-debate.pdf  
+  → ゆっくり解説風ジェンダー論争まとめ  
+
+- yukkuri-secom-script.pdf  
+  → ゆっくり解説：セコム関連スクリプト資料  
+
+- zundamon-itekureya.pdf  
+  → ずんだもん風「いてくれや」資料  
+
+- zundamon showa is crazy.pdf  
+  → ずんだもん風「昭和ははちゃめちゃだった」資料  
+
+- kinoshita_notice.pdf  
+  → 木下関連通知文書
+---
