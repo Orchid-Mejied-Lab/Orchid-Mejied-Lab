@@ -30,7 +30,7 @@
   → Z世代のミニバッグ事情レポート  
 
 - itekureya-report.pdf  
-  → 「いてくれや」レポート  
+  → 退職代行妨害業者「いてくれや」レポート  
 
 - kimi_review_kinoshita_doc.pdf  
   → Kimiによる木下関連文書のレビュー  
@@ -42,10 +42,10 @@
   → ゆっくり解説：セコム関連スクリプト資料  
 
 - zundamon-itekureya.pdf  
-  → ずんだもん風「いてくれや」資料  
+  → ずんだもん 退職代行妨害業者「いてくれや」 台本風
 
 - zundamon showa is crazy.pdf  
-  → ずんだもん風「昭和ははちゃめちゃだった」資料  
+  → ずんだもん「昭和ははちゃめちゃだった」台本風
 
 - kinoshita_notice.pdf  
   → 木下関連通知文書
