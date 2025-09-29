@@ -53,5 +53,11 @@
 - Odawara rental car sales incident.pdf  
   → 小田原レンタカー売却事件
 
+- chitose_life_logo.png  
+  → ちとせライフ ロゴ（リラクゼーション施設向けデザイン）
+
+- portfolio_screen.png  
+  → ポートフォリオ画面のスクリーンショット
+
 ---
 
