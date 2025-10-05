@@ -59,5 +59,14 @@
 - portfolio_screen.png  
   → ポートフォリオ画面のスクリーンショット
 
+- CrowdWorks Korekore Projects.pdf  
+  → クラウドワークス関連の企画・検証プロジェクト資料（英語併記）
+
+- Magnesium and beauty and health.pdf  
+  → マグネシウムと美容・健康に関するレポート（日本語＋英語）
+
+- generated-image-compressed.pdf / generated-image.png  
+  → 生成画像とその圧縮版。AI出力比較用資料
+
 ---
 
