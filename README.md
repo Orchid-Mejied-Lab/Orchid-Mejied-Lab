@@ -68,5 +68,8 @@
 - generated-image-compressed.pdf / generated-image.png  
   → 生成画像とその圧縮版。AI出力比較用資料
 
+- October 2025 China Hot Point.pdf  
+  → 2025年10月の中国主要トピックをまとめた時事レポート。  
+    
 ---
 
