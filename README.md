@@ -74,7 +74,8 @@
 - Fenomenet “Soft Girl” i Sverige.pdf  
   → スウェーデンの「ソフトガール」現象を簡潔にまとめた文化レポート。
 
-The deliverables that got me fired.pdf
-　→ クラウドワークス案件「ログ監視ツールリサーチ」成果物
+- The deliverables that got me fired.pdf  
+　→ やらせるだけやらせてクビにされたクラウドワークス案件「ログ監視ツールリサーチ」成果物  
+
 ---
 
