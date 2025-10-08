@@ -80,7 +80,7 @@
 - Top 10 fabric softener rankings.pdf  
   → みんな気になる？柔軟剤ベスト10👑
 
-- Adjustment Disorder Recovery Manual.pdf
-  →　現代社会あるある　適応要害からの社会までの復帰まにゅある
+- Adjustment Disorder Recovery Manual.pdf  
+　→ 現代社会あるある。適応障害からの社会復帰までの復帰マニュアル。
 ---
 
