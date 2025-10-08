@@ -77,5 +77,7 @@
 - The deliverables that got me fired.pdf  
 　→ やらせるだけやらせてクビにされたクラウドワークス案件「ログ監視ツールリサーチ」成果物  
 
+‐Top 10 fabric softener rankings.pdf
+  → みんな気になる？柔軟剤ベスト10👑
 ---
 
