@@ -82,5 +82,10 @@
 
 - Adjustment Disorder Recovery Manual.pdf  
 　→ 現代社会あるある。適応障害からの社会復帰までの復帰マニュアル。
+
+- LashRush logo.pdf 
+  → アイラッシュサロン「LashRush」用ロゴデザイン一式。
+
 ---
+
 
